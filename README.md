@@ -19,8 +19,7 @@ A projekt helyi gépen való futtatásához kövesse az alábbi lépéseket:
 1.  **Klónozza a repozitóriumot:**
 
     ```
-    git clone [https://github.com/dajkagabi/silverluxe.git](https://github.com/dajkagabi/silverluxe.git)
-    ```
+    git clone https://github.com/dajkagabi/silverluxe.git
 
 2.  **Lépjen be a projekt könyvtárába:**
 
