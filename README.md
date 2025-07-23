@@ -5,7 +5,7 @@ Ez a projekt egy weboldal front-end részét valósítja meg, amely ezüst éksz
 ## Technológia
 
 * **React:**
-* **Tailwind CSS:
+* **Tailwind CSS**
 * **React-icons**
 * **Framer-motion**
 * **Lucide-react**
