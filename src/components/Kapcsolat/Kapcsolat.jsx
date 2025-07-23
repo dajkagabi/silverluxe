@@ -111,8 +111,8 @@ const Kapcsolat = () => {
               <div className="flex items-start gap-4">
                 <FaEnvelope className="text-gray-600 text-xl mt-1" />
                 <div>
-                  <p className="text-gray-600">info@argentum.hu</p>
-                  <p className="text-gray-600">rendeles@argentum.hu</p>
+                  <p className="text-gray-600">info@silverluxe.hu</p>
+                  <p className="text-gray-600">rendeles@silverluxe.hu</p>
                 </div>
               </div>
             </div>
