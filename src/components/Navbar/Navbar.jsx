@@ -23,19 +23,19 @@ const Navbar = () => {
         <div className="hidden md:flex space-x-6">
           <Link
             to="/kollekcio"
-            className="text-[#121A29] hover:text-white transition duration-300"
+            className="text-[#121A29] hover:text-[#1E2836] transition duration-300"
           >
             Kollekció
           </Link>
           <Link
             to="/rolunk"
-            className="text-[#121A29] hover:text-white transition duration-300"
+            className="text-[#121A29] hover:text-[#1E2836] transition duration-300"
           >
             Rólunk
           </Link>
           <Link
             to="/kapcsolat"
-            className="text-[#121A29] hover:text-white transition duration-300"
+            className="text-[#121A29] hover:text-[#1E2836] transition duration-300"
           >
             Kapcsolat
           </Link>
@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className="md:hidden">
           <button
             onClick={() => setIsOpen(!isOpen)}
-            className="text-[#121A29] hover:text-white focus:outline-none"
+            className="text-[#121A29] hover:text-[#1E2836] focus:outline-none"
           >
             <svg
               className="w-8 h-8"
@@ -77,21 +77,21 @@ const Navbar = () => {
         <div className="md:hidden mt-4 space-y-2">
           <Link
             to="/kollekcio"
-            className="block text-[#121A29] hover:text-white px-3 py-2 rounded-md text-base font-medium transition duration-300"
+            className="block text-[#121A29] hover:text-[#1E2836] px-3 py-2 rounded-md text-base font-medium transition duration-300"
             onClick={() => setIsOpen(false)}
           >
             Kollekció
           </Link>
           <Link
             to="/rolunk"
-            className="block text-[#121A29] hover:text-white px-3 py-2 rounded-md text-base font-medium transition duration-300"
+            className="block text-[#121A29] hover:text-[#1E2836] px-3 py-2 rounded-md text-base font-medium transition duration-300"
             onClick={() => setIsOpen(false)}
           >
             Rólunk
           </Link>
           <Link
             to="/kapcsolat"
-            className="block text-[#121A29] hover:text-white px-3 py-2 rounded-md text-base font-medium transition duration-300"
+            className="block text-[#121A29] hover:text-[#1E2836] px-3 py-2 rounded-md text-base font-medium transition duration-300"
             onClick={() => setIsOpen(false)}
           >
             Kapcsolat

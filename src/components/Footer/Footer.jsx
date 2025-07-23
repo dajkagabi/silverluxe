@@ -23,7 +23,6 @@ const Footer = () => {
             </div>
           </div>
 
-          {/* Oszlop 2: Elérhetőségek */}
           <div>
             <h3 className="text-xl font-bold mb-4">Elérhetőség</h3>
             <ul className="space-y-2">
